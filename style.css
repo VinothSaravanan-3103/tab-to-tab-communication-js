@@ -1,0 +1,42 @@
+.s
+{
+    align-items: center;
+    margin-top: 140px;
+    margin-left: 40%;
+
+}
+.t
+{
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 40%;
+   
+
+}
+
+label
+{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 70px;
+    margin-top: 30px;
+    
+}
+input[type="text"]
+{
+    margin: 20px;
+    padding: 10px;
+    font-size: large;
+}
+button
+{
+    margin-left:45%;
+    padding: 10px;
+    -webkit-box-pack: start;
+ 
+}
+button[hover]
+{
+   background-color: aqua;
+}
